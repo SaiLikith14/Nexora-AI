@@ -1,5 +1,5 @@
 
-# Nexora AI – AI-Powered Business Insights  
+# Nexora AI – AI-Powered Business Insights
 
 ## Overview  
 **Nexora AI** is an advanced AI-driven platform leveraging **Google Gemini’s Generative LLM** to provide **on-demand, context-aware insights** across multiple industries, including **Healthcare, Finance, Manufacturing, and Technology**. The platform enables businesses to make informed decisions effortlessly through an interactive and user-friendly interface.  
